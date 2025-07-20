@@ -1,8 +1,3 @@
-Flask[async]
+Flask
 requests
-aiohttp
-pycryptodome
-protobuf
-protobuf_decoder
-googleapis-common-protos
-Werkzeug
+Pillow
